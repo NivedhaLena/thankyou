@@ -1,0 +1,82 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+    padding-top: 3.5rem;
+    background-color: darkred;
+
+}
+
+.signin
+{
+    margin : 3.5em;
+    padding : 2em;
+
+}
+
+.table
+{
+    margin: 4em;
+    padding: 2em;
+}
+
+.jumbotron
+{
+    margin-bottom: 0;
+    background-image: url(http://www.fndry.com/wp-content/uploads/2013/06/fndry_web_monument1.jpg);
+    background-position: 100% 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+
+}
+
+.NEWS
+{   height: 250px;
+    margin-bottom: 0;
+    background-image: url(http://gsa.njit.edu/njit.JPG);
+    background-position: 100% 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color:white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+.AfterNJIT
+{
+    margin-bottom: 0;
+    background-image: url(https://news.njit.edu/sites/news/files/styles/16x9__640x360_/public/Aerial%20campus2.jpg);
+    background-position: 100% 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color:White;
+    height: 250px;
+
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+.Spotlight
+{
+    margin-bottom: 0;
+    background-image: url(http://www6.njit.edu/impact/wp-content/uploads/2016/03/15_11_10_NJIT-WEC-Exterior-577x577.jpg);
+    background-position: 100% 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color:White;
+    text-shadow: black 0.3em 0.3em 0.3em;
+    height: 250px;
+}
+
+.home{
+    background-color:Black;
+}
+
+.About{
+    background-color: darkred;
+    color:white;
+
+}
+
+
+
+
+
